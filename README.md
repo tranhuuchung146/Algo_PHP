@@ -10,7 +10,7 @@ Cách sử dụng kết quả:
 ### app:
 
 - Question
-- QuestionList
+- QuestionLists
 
 /
 
